@@ -1,0 +1,48 @@
+Uri: https://cmdsol.net/
+File Name: C:\Downloaded Web Sites\cmdsol.net\index.htm
+Content Type: text/html
+
+Uri: https://cmdsol.net/indexl.js
+File Name: C:\Downloaded Web Sites\cmdsol.net\indexl.js
+Content Type: application/javascript
+
+Uri: https://cmdsol.net/meta/bg.webm
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\bg.webm
+Content Type: video/webm
+
+Uri: https://cmdsol.net/meta/bg.webp
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\bg.webp
+Content Type: image/webp
+
+Uri: https://cmdsol.net/meta/dextools.svg
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://cmdsol.net/meta/favico.png
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\favico.png
+Content Type: image/png
+
+Uri: https://cmdsol.net/meta/gate.svg
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\gate.svg
+Content Type: image/svg+xml
+
+Uri: https://cmdsol.net/meta/logo.webp
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\logo.webp
+Content Type: image/webp
+
+Uri: https://cmdsol.net/meta/pancakeswap.svg
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\pancakeswap.svg
+Content Type: image/svg+xml
+
+Uri: https://cmdsol.net/meta/telegram.svg
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://cmdsol.net/meta/x.svg
+File Name: C:\Downloaded Web Sites\cmdsol.net\meta\x.svg
+Content Type: image/svg+xml
+
+Uri: https://cmdsol.net/style.css
+File Name: C:\Downloaded Web Sites\cmdsol.net\style.css
+Content Type: text/css
+
